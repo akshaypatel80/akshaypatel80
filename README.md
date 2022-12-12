@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yYi3vDLi9hyXKPZ3w4CP2d9Ej_AoHMkr/view?usp=sharing](https://drive.google.com/file/d/1yYi3vDLi9hyXKPZ3w4CP2d9Ej_AoHMkr/view?usp=sharing)
 
+- 📫 Follow me on : <a href="https://www.linkedin.com/in/akshay-patel-9b96b816a/" target="_blank">LinkedIn
+
 - ⚡ Fun fact **While sleeping my mind is Debugging my code**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaypatel80" alt="akshaypatel80" /></a> </p>
