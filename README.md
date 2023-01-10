@@ -44,7 +44,7 @@
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel80&theme=tokyonight&langs_count=8" alt="akshaypatel80" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=akshaypatel80&theme=tokyo-night" height="255px" width="70%"/>
+<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=akshaypatel80&theme=tokyo-night" height="255px" width="70%"/> -->
 <div>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
